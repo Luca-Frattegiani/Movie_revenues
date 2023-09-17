@@ -6,6 +6,7 @@ Machine Learning analyses of the kaggle dataset [https://www.kaggle.com/datasets
 
 
 _Aim:_ 
+\newline
 Build a regression model to predict the movie's expected revenue basing on the information provided.
 
 
