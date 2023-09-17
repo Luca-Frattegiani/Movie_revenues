@@ -2,12 +2,7 @@
 
 **Project Description:**
 
-Machine Learning analyses of the kaggle dataset [https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv], containing different features about both popular and non popular movies. 
-
-
-_Aim:_ 
-\newline
-Build a regression model to predict the movie's expected revenue basing on the information provided.
+Machine Learning analyses of the kaggle dataset [https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv], containing different features about both popular and non popular movies. The aim is to build a regression model to predict the movie's expected revenue basing on the information provided.
 
 
 _Steps of the analyses:_
