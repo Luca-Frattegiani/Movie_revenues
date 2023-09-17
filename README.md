@@ -7,10 +7,12 @@ Machine Learning analyses of the kaggle dataset [https://www.kaggle.com/datasets
 
 
 _Aim:_ 
+
 Build a regression model to predict the movie's expected revenue basing on the information provided.
 
 
 _Steps of the analyses:_
+
 1) Pre-processing and data cleaning
 2) Exploratory Data Analyses
 3) Linear Regression
