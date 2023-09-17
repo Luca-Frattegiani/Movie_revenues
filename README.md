@@ -5,7 +5,7 @@
 Machine Learning analyses of the kaggle dataset [https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv], containing different features about both popular and non popular movies. The aim is to build a regression model to predict the movie's expected revenue basing on the information provided.
 
 
-_Steps of the analyses:_
+**Steps of the analyses:**
 
 1) Pre-processing and data cleaning
 2) Exploratory Data Analyses
